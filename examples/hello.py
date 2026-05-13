@@ -2,8 +2,6 @@
 1.2PP Hello World
 """
 
-__author__ = "Zhibing Song"
-
 
 def main():
     print("Hello, World!")
