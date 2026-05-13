@@ -2,8 +2,6 @@
 3.2PP Fill in the Blanks: Tour de France Wrap-up
 """
 
-__author__ = "Zhibing Song"
-
 
 def main():
     print("Tour de France 2025 – Final Standings")
