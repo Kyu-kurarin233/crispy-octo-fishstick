@@ -2,7 +2,6 @@
 4.1PP Selection and Repetition
 """
 
-__author__ = "Zhibing Song"
 
 import timeit # used for timing the execution of code
 from random import randint # used for generating random values
