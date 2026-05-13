@@ -2,8 +2,6 @@
 5.2PP Collection of Strings
 """
 
-__author__ = "Zhibing Song"
-
 
 def add_word(word_list: list[str], word: str):
     if word == "":
