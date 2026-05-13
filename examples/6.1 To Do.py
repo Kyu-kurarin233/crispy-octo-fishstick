@@ -1,7 +1,5 @@
 """6.1  Option 4: To Do"""
 
-__author__ = "Zhibing Song"
-
 
 from enum import Enum
 
