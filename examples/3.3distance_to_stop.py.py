@@ -2,7 +2,6 @@
 3.3PP Functions: Distance Required to Stop
 """
 
-__author__ = "Zhibing Song"
 
 #Add any imports here:nothing
 
