@@ -5,7 +5,6 @@ Implements a reusable 'stamp' that can draw the author's initials at
 any location on the Turtle Graphics window.
 """
 
-__author__ = "Zhibing Song"
 
 from turtle import Turtle
 
